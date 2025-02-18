@@ -1,4 +1,4 @@
-Tic-Tac-Toe AI 🤖
+# Tic-Tac-Toe AI 🤖
 
 Think you can beat me? That’s cute.
 
