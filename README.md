@@ -40,7 +40,11 @@ Now, you can test your skills against the AI. Or, if you just want to watch two 
 
 Python 3+ (because we’re not coding in 1995).
 
+![image](https://github.com/user-attachments/assets/9b6f3725-586f-4659-9ff3-ace20e987c25)
+
+
 If the AI is using MCTS, you might need NumPy:
+
 
 pip install numpy  
 
